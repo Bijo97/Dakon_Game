@@ -1,0 +1,1 @@
+- Setiap Player memiliki 7 lubang kecil dan 1 lubang besar.- Masing - masing lubang kecil, memiliki 7 biji dakon. - Permainan SELALU dimulai oleh Player 1.- Tujuan dari permainan ini adalah untuk memindahkan biji dakon   ke lubang besar masing - masing Player.- Player yang memiliki jumlah biji terbanyak dilubang besar hingga    akhir permainan akan menjadi PEMENANG.
